@@ -1,0 +1,35 @@
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-section {
+    background: url('img/portada.jpg') no-repeat center center;
+    background-size: cover;
+    height: 80vh;
+    color: white;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.menu-section {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
